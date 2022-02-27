@@ -32,6 +32,8 @@ function Tempfunc(){
     <div>
       <Header />
     {cards}
+    
+    
     {/* <Card 
         img="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
       rate = "6.0"
